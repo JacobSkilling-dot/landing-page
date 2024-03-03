@@ -9,3 +9,6 @@ This project, TuneTrove, is a music companion app designed to make your musical 
 ## Dependencies/Packages Installed
 - Spline
   - npm install @splinetool/react-spline lucide-react
+ 
+- Tailwind
+  - npm install -D tailwindcss
